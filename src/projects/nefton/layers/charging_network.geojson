@@ -1,0 +1,6693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.967778,
+          49.208317
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#efc84d",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Goldene Bremm Süd</strong><br>ID: DE-SL-000017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604161,
+          47.598484
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#20e972",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Weil am Rhein Ost</strong><br>ID: DE-BW-005680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214148,
+          50.81834
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f34ac2",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aachener Land Nord</strong><br>ID: DE-NW-000151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688118,
+          52.695484
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Allertal Ost</strong><br>ID: DE-NI-332401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.238517,
+          51.381504
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bühleck Süd</strong><br>ID: DE-HE-440011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.245889,
+          49.779613
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Haidt Süd</strong><br>ID: DE-BY-000038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.638167,
+          49.205894
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hohenlohe Süd</strong><br>ID: DE-BW-006080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.881323,
+          52.233414
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d1bff8",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Tecklenburger Land Ost</strong><br>ID: DE-NW-000003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.705408,
+          52.883873
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Buckowsee Ost</strong><br>ID: DE-BB-314803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.172633,
+          49.836586
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Waldnaabtal Ost</strong><br>ID: DE-BY-000423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.416492,
+          47.663937
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#782232",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rottachtal-West</strong><br>ID: DE-BY-000264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.898913,
+          49.69059
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hochwald Ost</strong><br>ID: DE-RP-000013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.348679,
+          51.8811
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#abb16a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Karthaus (West)</strong><br>ID: DE-NW-000195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.275298,
+          53.197456
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d98b6b",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Blesenberg</strong><br>ID: DE-BB-283901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.185787,
+          50.231678
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Steinebrück Ost</strong><br>ID: DE-RP-000074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.853825,
+          52.752937
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Linumer Bruch Süd</strong><br>ID: DE-BB-324302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.755669,
+          54.0706
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Neustädter Bucht West</strong><br>ID: DE-SH-001205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.947843,
+          50.894737
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Auerswalder Blick Süd</strong><br>ID: DE-SN-000023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.195484,
+          50.949818
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Eichelborn Nord</strong><br>ID: DE-TH-004121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.568503,
+          49.453587
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#cb2801",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Weiler</strong><br>ID: DE-SL-000520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.969811,
+          49.308098
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kammersteiner Land Nord</strong><br>ID: DE-BY-000157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.89077,
+          51.326473
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a3000c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hösel Ost</strong><br>ID: DE-NW-000117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.442502,
+          54.616596
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Jalmer Moor</strong><br>ID: DE-SH-007211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.807363,
+          48.520897
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fdff08",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aichen</strong><br>ID: DE-BW-008010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.166458,
+          49.994804
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Paradiestal Nord</strong><br>ID: DE-BY-000275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.290803,
+          49.645508
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#27eac2",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wonnegau West</strong><br>ID: DE-RP-000133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.302803,
+          48.69372
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Denkendorf</strong><br>ID: DE-BW-008040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.226559,
+          49.221592
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Göggelsbuch Ost</strong><br>ID: DE-BY-000366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.795986,
+          51.91185
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#c66713",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Berstetal Ost</strong><br>ID: DE-BB-404804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.83807,
+          51.88861
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#c66713",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rüblingsheide West</strong><br>ID: DE-BB-414901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65829,
+          53.608803
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bütteler Holz West (alt Debstedt / West)</strong><br>ID: DE-NI-231701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.112752,
+          48.12352
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Illertal Ost</strong><br>ID: DE-BW-004459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8523,
+          51.45935
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Elsteraue</strong><br>ID: DE-BB-444901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.219981,
+          50.808952
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Siegburg Ost</strong><br>ID: DE-NW-000097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.020962,
+          49.94416
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f6c648",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Riedener Wald Ost</strong><br>ID: DE-BY-000208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585202,
+          50.54803
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b4a0de",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Urbacher Wald</strong><br>ID: DE-RP-000022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.778867,
+          50.582214
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>PWC Himmelsteiche Ost</strong><br>ID: DE-TH-009042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.323388,
+          53.693592
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#18e12a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Buddikate Ost</strong><br>ID: DE-SH-001102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.468318,
+          48.837605
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Köschinger Forst West</strong><br>ID: DE-BY-000375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.850274,
+          50.447716
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3dd6bb",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Montabaur</strong><br>ID: DE-RP-000027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.099957,
+          49.19694
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b4a0de",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Eichhäuser Hof</strong><br>ID: DE-BW-006550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.929389,
+          54.09227
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aalbek</strong><br>ID: DE-SH-007205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.707022,
+          51.261868
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Muldental Nord</strong><br>ID: DE-SN-001098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.616374,
+          49.97784
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Spitzberg Nord</strong><br>ID: DE-BY-000271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76768,
+          49.9644
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hunsrück Ost</strong><br>ID: DE-RP-000121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21064,
+          49.484856
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ohrenbach West</strong><br>ID: DE-BY-000225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.521405,
+          51.26825
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kassel Ost</strong><br>ID: DE-HE-700004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.453028,
+          50.325306
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#e56657",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hunsrücker Berg</strong><br>ID: DE-HE-660008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880559,
+          50.06865
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Eifel West</strong><br>ID: DE-RP-000004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.877944,
+          52.231773
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d1bff8",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Tecklenburger Land West</strong><br>ID: DE-NW-000004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.452699,
+          49.631157
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ulrichsberg Süd</strong><br>ID: DE-BY-000183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.201877,
+          47.611
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#38ae51",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Inntal Ost</strong><br>ID: DE-BY-000415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.354549,
+          49.24252
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Frankenhöhe Nord</strong><br>ID: DE-BY-000137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640767,
+          51.705013
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wispelt</strong><br>ID: DE-NW-000108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.587925,
+          48.46436
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Paunzhauser Feld West</strong><br>ID: DE-BY-000385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.702924,
+          50.10553
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Streitau West</strong><br>ID: DE-BY-000349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.661786,
+          50.711758
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#e56657",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Großenmoor West</strong><br>ID: DE-HE-700020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.023209,
+          51.89852
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Brooksbach (TR Hochmoor West)</strong><br>ID: DE-NW-000135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.940039,
+          53.717724
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#ae6842",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Holmmoor Ost</strong><br>ID: DE-SH-007102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.152184,
+          49.270058
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#283fb1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Pfälzer Weinstraße West</strong><br>ID: DE-RP-000162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.609183,
+          52.992027
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>RA A24 km 192,5</strong><br>ID: DE-BB-294104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.260259,
+          53.1836
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bornhorster Wiesen West</strong><br>ID: DE-NI-281501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.785658,
+          47.86434
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d7a9f9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Im Hegau Ost</strong><br>ID: DE-BW-081660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596171,
+          51.467766
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#c0d71e",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lichtendorf Süd</strong><br>ID: DE-NW-000035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.578119,
+          49.761227
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Sauertal</strong><br>ID: DE-RP-000158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.946505,
+          50.87737
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Siegerland Ost</strong><br>ID: DE-NW-000272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.551363,
+          51.941513
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#42a0e4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Münsterland Ost</strong><br>ID: DE-NW-000021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590684,
+          47.829075
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hochfelln Nord</strong><br>ID: DE-BY-000298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.426543,
+          52.91386
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wildeshausen Süd</strong><br>ID: DE-NI-301601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.329136,
+          51.198475
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f635dc",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Oberlausitz Süd</strong><br>ID: DE-SN-000050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06587,
+          48.757107
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5a9fe5",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ohetal Süd</strong><br>ID: DE-BY-008569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366575,
+          48.588524
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#84bdb3",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Donautal Ost</strong><br>ID: DE-BY-000125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.493035,
+          50.049625
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Nimstal Ost</strong><br>ID: DE-RP-000080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.31657,
+          51.388653
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#15e67d",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Tomm Heide (Süd)</strong><br>ID: DE-NW-000176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51423,
+          49.74893
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fränkische Schweiz-Pegnitz Ost</strong><br>ID: DE-BY-000354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.942595,
+          50.644203
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Peppenhoven Ost</strong><br>ID: DE-NW-000331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04368,
+          52.31333
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bentheimer Wald Süd</strong><br>ID: DE-NI-360803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.30728,
+          50.86056
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Altenburger Land Nord</strong><br>ID: DE-TH-001159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.92075,
+          51.55931
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Freienhufener Eck Ost</strong><br>ID: DE-BB-444904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.339201,
+          49.044758
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#ef8059",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Greding West</strong><br>ID: DE-BY-000370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.198643,
+          51.65198
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kalbecker Forst West</strong><br>ID: DE-NW-000305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398107,
+          52.191017
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Salzgitterhüttenblick Nord</strong><br>ID: DE-NI-005298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.403185,
+          47.927017
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Höhenrain Ost</strong><br>ID: DE-BY-000450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.671487,
+          54.365463
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hüttener Berge Ost</strong><br>ID: DE-SH-007109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756699,
+          54.06875
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Neustädter Bucht Ost</strong><br>ID: DE-SH-001105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.235082,
+          50.30008
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b4a0de",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bad Camberg West</strong><br>ID: DE-HE-300004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.477227,
+          54.00658
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kaaksburg West</strong><br>ID: DE-SH-023203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.908237,
+          50.055004
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#315505",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Weiskirchen Süd</strong><br>ID: DE-HE-300014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.690904,
+          49.424496
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Oberpfälzer Alb Nord</strong><br>ID: DE-BY-000173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.985801,
+          52.236153
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ihlegrund Nord</strong><br>ID: DE-ST-001211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.626561,
+          48.206482
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f2c3bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Neckarburg Ost</strong><br>ID: DE-BW-081630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.912774,
+          48.41185
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#357257",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Augsburg Ost</strong><br>ID: DE-BY-000330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685471,
+          52.6954
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Allertal West</strong><br>ID: DE-NI-332404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.216436,
+          50.816936
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f34ac2",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aachener Land Süd</strong><br>ID: DE-NW-000152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.241796,
+          53.085983
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Olle Rheen Ost</strong><br>ID: DE-NI-290901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.674769,
+          50.489594
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Engelgau Ost</strong><br>ID: DE-NW-000052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.967447,
+          53.2164
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rathsburgseen Süd</strong><br>ID: DE-BB-274901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.172374,
+          49.83971
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Waldnaabtal West</strong><br>ID: DE-BY-000424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.396399,
+          51.191853
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Am Sonneborn</strong><br>ID: DE-HE-490004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.965194,
+          49.593277
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#283fb1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Donnersberg Ost</strong><br>ID: DE-RP-000157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.897348,
+          49.69017
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hochwald West</strong><br>ID: DE-RP-000014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.291574,
+          53.840252
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Recknitz Niederung Ost</strong><br>ID: DE-MV-190017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.929751,
+          49.580975
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3dc9be",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aurach Nord</strong><br>ID: DE-BY-000071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318386,
+          50.952263
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5f9e99",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aggertal Nord</strong><br>ID: DE-NW-000162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27579,
+          53.19631
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d98b6b",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kiebitzberg</strong><br>ID: DE-BB-283902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.469143,
+          53.533955
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Plater Berg Ost</strong><br>ID: DE-MV-140006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.174503,
+          51.008945
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Burgberg</strong><br>ID: DE-HE-400002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.252403,
+          51.00798
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Eisenach</strong><br>ID: DE-TH-004211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.692113,
+          52.543747
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Seeberg Ost</strong><br>ID: DE-BB-344801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.165202,
+          51.897774
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b6d8bc",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Knauheide</strong><br>ID: DE-NW-000090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.967431,
+          49.306183
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kammersteiner Land Süd</strong><br>ID: DE-BY-000158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.799536,
+          51.553734
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Sintfeld (Süd)</strong><br>ID: DE-NW-000210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.197063,
+          48.741116
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#11fe12",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Härtsfeld Ost</strong><br>ID: DE-BW-007515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.833657,
+          48.51068
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Scharenstetten</strong><br>ID: DE-BW-004461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.168251,
+          49.99389
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Paradiestal Süd</strong><br>ID: DE-BY-000274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.386821,
+          52.320312
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Biegener Hellen Süd</strong><br>ID: DE-BB-365201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.017381,
+          52.301617
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Michendorf Süd</strong><br>ID: DE-BB-364504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.800198,
+          51.554565
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Sintfeld (Nord)</strong><br>ID: DE-NW-000209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.374645,
+          49.372833
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#283fb1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Waldmohr</strong><br>ID: DE-RP-000071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.109221,
+          48.126774
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Illertal West</strong><br>ID: DE-BW-004458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664186,
+          50.25124
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b4a0de",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Schäferborn</strong><br>ID: DE-HE-500019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016793,
+          49.944775
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f6c648",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Riedener Wald West</strong><br>ID: DE-BY-000209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985059,
+          53.110374
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a9903a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lüneburger Heide Ost</strong><br>ID: DE-NI-282603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.721556,
+          47.97041
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#20e972",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Breisgau</strong><br>ID: DE-BW-005635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.777162,
+          50.58252
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>PWC Himmelsteiche West</strong><br>ID: DE-TH-009041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.227167,
+          50.265785
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Elztal Süd</strong><br>ID: DE-RP-000045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.488193,
+          51.59321
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hellweg Süd</strong><br>ID: DE-NW-007380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.791288,
+          48.308468
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mahlberg Ost</strong><br>ID: DE-BW-005605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.106112,
+          49.1933
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#59c58a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wart</strong><br>ID: DE-BW-006050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.820979,
+          51.656803
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Plötzetal Ost</strong><br>ID: DE-ST-014041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.155308,
+          52.359882
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3c5e8e",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Röhrse Süd</strong><br>ID: DE-NI-362602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.474207,
+          52.88286
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#9fe909",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hamwiede Nord</strong><br>ID: DE-NI-312201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.994612,
+          49.350445
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#75a3bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kutzhof Süd</strong><br>ID: DE-SL-000027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.185096,
+          50.466255
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#540617",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Vogtland Nord</strong><br>ID: DE-SN-000061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.846458,
+          48.058956
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1edd23",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lechwiesen Nord</strong><br>ID: DE-BY-000465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.603633,
+          51.129673
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fee17f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Vierwinden Nord</strong><br>ID: DE-NW-000285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.452319,
+          52.185257
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Börde Nord</strong><br>ID: DE-ST-002031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.706253,
+          51.260223
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Muldental Süd</strong><br>ID: DE-SN-000035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.251517,
+          54.137325
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dithmarscher Geest -Ost</strong><br>ID: DE-SH-023105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.609853,
+          49.975353
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f6c648",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Spitzberg Süd</strong><br>ID: DE-BY-000270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766155,
+          49.963196
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hunsrück West</strong><br>ID: DE-RP-000120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.009557,
+          51.189144
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mühlenberg Nord</strong><br>ID: DE-SN-000058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.307746,
+          52.251907
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Buckautal Nord</strong><br>ID: DE-BB-373901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.716129,
+          49.773495
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fronberg (Süd)</strong><br>ID: DE-BY-000030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.877499,
+          51.489048
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Göttingen Ost</strong><br>ID: DE-NI-452501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.245248,
+          49.780624
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Haidt Nord</strong><br>ID: DE-BY-000039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.354743,
+          49.241283
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Frankenhöhe Süd</strong><br>ID: DE-BY-000136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.951679,
+          48.437546
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#75c717",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Moosburger Au-West</strong><br>ID: DE-BY-000396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.640883,
+          49.206455
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hohenlohe Nord</strong><br>ID: DE-BW-006580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.760478,
+          48.124065
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Vaterstetten Ost</strong><br>ID: DE-BY-000475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.472107,
+          53.29438
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Eldetal Ost</strong><br>ID: DE-MV-190002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.420273,
+          47.66216
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#782232",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rottachtal-Ost</strong><br>ID: DE-BY-000265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.034285,
+          48.74149
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a6daba",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Sindelfinger Wald</strong><br>ID: DE-BW-008560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.937708,
+          53.717075
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#ae6842",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Holmmoor West</strong><br>ID: DE-SH-007202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.785943,
+          47.86162
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d7a9f9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Im Hegau West</strong><br>ID: DE-BW-081175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.591467,
+          49.74638
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d8fdf9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Alsbach</strong><br>ID: DE-HE-500032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.854318,
+          52.75491
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Linumer Bruch Nord</strong><br>ID: DE-BB-324301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.100454,
+          51.57096
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b9c55d",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Resser Mark Nord</strong><br>ID: DE-NW-000085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.195998,
+          48.984257
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#11fe12",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ellwanger Berge Ost</strong><br>ID: DE-BW-007510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57853,
+          49.76048
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Markusberg</strong><br>ID: DE-RP-000159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.935211,
+          50.880676
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Siegerland West</strong><br>ID: DE-NW-000271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.939849,
+          50.892612
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Auerswalder Blick Nord</strong><br>ID: DE-SN-000022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11322,
+          52.54315
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dammer Berge West</strong><br>ID: DE-NI-341406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.572002,
+          51.060802
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d9805a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dresdner Tor Süd</strong><br>ID: DE-SN-000029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.706375,
+          48.931065
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bayerischer Wald Süd</strong><br>ID: DE-BY-000108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.491063,
+          50.04949
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Nimstal West</strong><br>ID: DE-RP-000081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.745267,
+          51.635628
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hünxe West</strong><br>ID: DE-NW-000112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.073599,
+          51.792152
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4cc122",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Vellern</strong><br>ID: DE-NW-000071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63481,
+          52.018097
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d179f3",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lipperland Süd</strong><br>ID: DE-NW-000061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365276,
+          48.58951
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#84bdb3",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Donautal West</strong><br>ID: DE-BY-000126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.510168,
+          49.74905
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fränkische Schweiz-Pegnitz West</strong><br>ID: DE-BY-000355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94166,
+          50.643394
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Peppenhoven West</strong><br>ID: DE-NW-000330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.292994,
+          49.64692
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#27eac2",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wonnegau Ost</strong><br>ID: DE-RP-000134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658958,
+          53.60751
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bütteler Holz Ost (alt:Debstedt / Ost)</strong><br>ID: DE-NI-231702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314025,
+          50.856766
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Altenburger Land Süd</strong><br>ID: DE-TH-004012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.512432,
+          50.266975
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3dd6bb",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mosel Ost</strong><br>ID: DE-RP-000111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488947,
+          50.64921
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Niedercrinitz Süd</strong><br>ID: DE-SN-000048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.401948,
+          47.927963
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Höhenrain West</strong><br>ID: DE-BY-000449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.671262,
+          54.363785
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hüttener Berge West</strong><br>ID: DE-SH-007208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21164,
+          54.139656
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Depenauer Moor</strong><br>ID: DE-SH-021204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65923,
+          53.210625
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Habichthorst Rifa Nord Ost</strong><br>ID: DE-HB-000009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213732,
+          48.437466
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#11fe12",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Leipheim Süd</strong><br>ID: DE-BY-000340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.36325,
+          50.6217
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Katzenfurt West</strong><br>ID: DE-HE-450015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.953331,
+          51.106064
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Osterfeld West</strong><br>ID: DE-ST-009081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.320928,
+          49.549023
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wolfshöhe West</strong><br>ID: DE-BY-000359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4726,
+          48.83674
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Köschinger Forst Ost</strong><br>ID: DE-BY-000376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.35271,
+          50.097176
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#0a8260",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Medenbach Ost</strong><br>ID: DE-HE-300007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.757328,
+          48.12432
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Vaterstetten West</strong><br>ID: DE-BY-000474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13099,
+          50.433804
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5752dc",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Vogtland Süd</strong><br>ID: DE-SN-000062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.687408,
+          49.42327
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Oberpfälzer Alb Süd</strong><br>ID: DE-BY-000174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.601702,
+          49.257236
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mönchberg</strong><br>ID: DE-BW-005030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.774844,
+          50.40536
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Frankenwald Ost</strong><br>ID: DE-BY-000341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.505648,
+          48.941418
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Steinig</strong><br>ID: DE-BW-008585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.12648,
+          51.75541
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dubje</strong><br>ID: DE-BB-425003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213594,
+          49.48562
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1a764f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ohrenbach Ost</strong><br>ID: DE-BY-000226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.239503,
+          53.086887
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Olle Rheen West</strong><br>ID: DE-NI-290902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.674235,
+          50.488426
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Engelgau West</strong><br>ID: DE-NW-000053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.957315,
+          53.211235
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rathsburgseen Nord</strong><br>ID: DE-BB-274902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.880401,
+          50.070053
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Eifel Ost</strong><br>ID: DE-RP-000003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.200559,
+          47.612392
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#38ae51",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Inntal West</strong><br>ID: DE-BY-000416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.139647,
+          52.224354
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d1e11f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lau Brechte</strong><br>ID: DE-NW-000141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.736326,
+          53.36657
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hollenstedt Nord</strong><br>ID: DE-NI-262403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.700968,
+          52.88247
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Buckowsee West</strong><br>ID: DE-BB-314802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668797,
+          51.15292
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#ba4e97",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Drögenpütt</strong><br>ID: DE-NW-000256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.021255,
+          51.89099
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hochmoor (TR Hochmoor Ost)</strong><br>ID: DE-NW-000134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.287513,
+          53.839752
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Recknitz Niederung West</strong><br>ID: DE-MV-190016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.926532,
+          49.581436
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#bc917a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aurach Süd</strong><br>ID: DE-BY-000072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320095,
+          50.951267
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5f9e99",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aggertal Süd</strong><br>ID: DE-NW-000163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.36833,
+          53.600903
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kiether Berg Ost</strong><br>ID: DE-MV-001321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.661454,
+          50.713924
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#e56657",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Großenmoor Ost</strong><br>ID: DE-HE-700019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.321078,
+          53.693123
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#18e12a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Buddikate West</strong><br>ID: DE-SH-001202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.468909,
+          53.538227
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Plater Berg West</strong><br>ID: DE-MV-140005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.661281,
+          52.951733
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Walsleben Ost</strong><br>ID: DE-BB-304101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26351,
+          53.182434
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bornhorster Wiesen Ost (NI 153 O)</strong><br>ID: DE-NI-281502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60383,
+          49.690315
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d8fdf9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bergstraße</strong><br>ID: DE-HE-500035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.228907,
+          51.15797
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#612d8a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Remscheid Ost</strong><br>ID: DE-NW-000044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.957541,
+          51.105927
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Osterfeld Ost</strong><br>ID: DE-ST-009080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.69083,
+          52.54269
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Seeberg West</strong><br>ID: DE-BB-344802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.268829,
+          53.33083
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2ac3f4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Busschewald Süd</strong><br>ID: DE-NI-262704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.195927,
+          48.73991
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3c8d86",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Heidenheimer Kohlplatten</strong><br>ID: DE-BW-007015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.706934,
+          48.932167
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bayerischer Wald Nord</strong><br>ID: DE-BY-000107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.981132,
+          51.723858
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4cc122",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Stettin</strong><br>ID: DE-NW-000073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.784352,
+          47.682056
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ettensweiler West</strong><br>ID: DE-BW-096505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.351708,
+          50.75704
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#71e209",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Eifa</strong><br>ID: DE-HE-500006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.019507,
+          52.30297
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Michendorf Nord</strong><br>ID: DE-BB-364503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664697,
+          52.07206
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#bf8f4d",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lipperland Nord</strong><br>ID: DE-NW-000059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.957567,
+          48.562687
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1e2c69",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Renchtal Ost</strong><br>ID: DE-BW-005575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.066101,
+          52.705116
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ziethener Luch</strong><br>ID: DE-BB-002402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.198477,
+          51.653297
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kalbecker Forst Ost</strong><br>ID: DE-NW-000306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.13285,
+          51.54839
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#cd1b0f",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Soester Börde Nord</strong><br>ID: DE-NW-000226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.854951,
+          48.73926
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Deutschmeister West</strong><br>ID: DE-BY-000443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981701,
+          53.11109
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a9903a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lüneburger Heide West</strong><br>ID: DE-NI-282601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.553318,
+          52.42206
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4faf4b",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Garbsen Nord</strong><br>ID: DE-NI-005252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397547,
+          52.189213
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Salzgitterhüttenblick Süd</strong><br>ID: DE-NI-005299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.434486,
+          50.598713
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b4a0de",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fernthal</strong><br>ID: DE-RP-000019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789466,
+          48.309464
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mahlberg West</strong><br>ID: DE-BW-005100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594484,
+          51.468246
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#469c43",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lichtendorf Nord</strong><br>ID: DE-NW-000036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.819066,
+          51.655384
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Plötzetal West</strong><br>ID: DE-ST-014040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.905052,
+          51.605797
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#07b8b0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Leineholz West</strong><br>ID: DE-NI-432502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.452918,
+          52.886463
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#9fe909",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hamwiede Süd</strong><br>ID: DE-NI-312202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.775996,
+          48.455956
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hirtenhaus</strong><br>ID: DE-BW-081605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.427605,
+          48.413326
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#cfaea1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Burgauer See Nord</strong><br>ID: DE-BY-000337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603592,
+          52.031918
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#42a0e4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Plugger Heide (Ost)</strong><br>ID: DE-NW-000018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.847978,
+          48.05854
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#1edd23",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lechwiesen Süd</strong><br>ID: DE-BY-000466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1136,
+          52.53661
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dammer Berge Ost</strong><br>ID: DE-NI-341401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.248291,
+          54.13879
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dithmarscher Geest -West</strong><br>ID: DE-SH-023205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.422995,
+          52.915028
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wildeshausen Nord</strong><br>ID: DE-NI-301604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.754681,
+          52.226955
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5144b2",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Krähenberge Sued</strong><br>ID: DE-ST-002020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.309836,
+          52.250984
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Buckautal Süd</strong><br>ID: DE-BB-373902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.69329,
+          51.942436
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dreihöhenberg Ost</strong><br>ID: DE-ST-014071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.268947,
+          53.331978
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2ac3f4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Roddau Nord</strong><br>ID: DE-NI-262703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.331521,
+          51.19971
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f635dc",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Oberlausitz Nord</strong><br>ID: DE-SN-000049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.984957,
+          51.187294
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#493e8a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>An der Neiße Süd</strong><br>ID: DE-SN-000040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.993832,
+          51.18635
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#493e8a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>An der Neiße Nord</strong><br>ID: DE-SN-000039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.19669,
+          50.948193
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Eichelborn Süd</strong><br>ID: DE-TH-004122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.757202,
+          53.90878
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fuchsberg Süd</strong><br>ID: DE-MV-200010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.758098,
+          53.910908
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fuchsberg Nord</strong><br>ID: DE-MV-200009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.093083,
+          48.961082
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#03a210",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Pentling</strong><br>ID: DE-BY-000440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.386661,
+          52.321217
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Biegener Hellen Nord</strong><br>ID: DE-BB-365202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.451995,
+          49.632324
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ulrichsberg Nord</strong><br>ID: DE-BY-000182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.15344,
+          49.27012
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#283fb1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Pfälzer Weinstraße Ost</strong><br>ID: DE-RP-000163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.227286,
+          51.158512
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#612d8a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Remscheid West</strong><br>ID: DE-NW-000045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.569823,
+          49.161533
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d12192",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Bruchsal Ost</strong><br>ID: DE-BW-005540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.571171,
+          51.062675
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d9805a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Dresdner Tor Nord</strong><br>ID: DE-SN-000028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.842746,
+          50.72626
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Thüringer Wald Nord</strong><br>ID: DE-TH-071061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.847415,
+          50.72506
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Thüringer Wald Süd</strong><br>ID: DE-TH-071062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.535047,
+          53.299282
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ostetal Süd</strong><br>ID: DE-NI-262301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.415664,
+          51.40278
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Eichsfeld Süd</strong><br>ID: DE-TH-038021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.415808,
+          51.404278
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TR Eichsfeld Nord</strong><br>ID: DE-TH-038022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.777388,
+          53.520123
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ravensmühle Süd</strong><br>ID: DE-MV-200032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.373376,
+          49.48385
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#75a3bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Moseltal Nord</strong><br>ID: DE-SL-000031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.424929,
+          51.434986
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rohnetal Nord</strong><br>ID: DE-ST-038030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.424855,
+          51.43317
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rohnetal Sued</strong><br>ID: DE-ST-038031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.368523,
+          54.037823
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Speckmoor Süd</strong><br>ID: DE-MV-200016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922275,
+          51.347538
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#8ed665",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Geiseltal Ost</strong><br>ID: DE-ST-038050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.488825,
+          51.03538
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hasselberg Ost</strong><br>ID: DE-HE-700010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.184096,
+          51.607548
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Köckern West</strong><br>ID: DE-ST-009041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.187227,
+          51.608994
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Köckern Ost</strong><br>ID: DE-ST-009040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19721,
+          52.52898
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3051bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ems-Vechte West</strong><br>ID: DE-NI-340902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19907,
+          52.52729
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3051bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ems-Vechte Ost</strong><br>ID: DE-NI-340901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.594277,
+          53.5503
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Brohmer Berge</strong><br>ID: DE-MV-200029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.534127,
+          50.59989
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#4e516c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>PWC Dolmar Ost</strong><br>ID: DE-TH-071082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728854,
+          49.628407
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Ob der Tauber West</strong><br>ID: DE-BW-081015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.965544,
+          50.639626
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#71e209",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Hegberg</strong><br>ID: DE-HE-500011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598424,
+          48.388462
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Aster Moos Ost</strong><br>ID: DE-BY-000386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487117,
+          51.970467
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#61f979",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rosselquelle Süd</strong><br>ID: DE-ST-009010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486715,
+          51.971394
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#61f979",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rosselquelle Nord</strong><br>ID: DE-ST-009011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.045413,
+          51.467293
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Goldene Aue Sued</strong><br>ID: DE-ST-038011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35079,
+          50.42378
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fed652",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mellrichstädter Höhe West</strong><br>ID: DE-BY-000280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349667,
+          50.421608
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fed652",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mellrichstädter Höhe Ost</strong><br>ID: DE-BY-000279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.993265,
+          50.248055
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Langen Bergheim West</strong><br>ID: DE-HE-450027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.995375,
+          50.251163
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Langen Bergheim Ost</strong><br>ID: DE-HE-450028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.878133,
+          53.81447
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Schönberger Land Süd</strong><br>ID: DE-MV-200002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.878478,
+          53.816067
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Schönberger Land Nord</strong><br>ID: DE-MV-200001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.628889,
+          54.0542
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lindholz</strong><br>ID: DE-MV-200017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.318669,
+          53.99819
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Peenetal Nord</strong><br>ID: DE-MV-200023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.880974,
+          50.264824
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rhön West</strong><br>ID: DE-BY-000192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.882067,
+          50.2682
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rhön Ost</strong><br>ID: DE-BY-000191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774174,
+          50.9292
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Frechen Nord</strong><br>ID: DE-NW-000155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.778489,
+          50.928467
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Frechen Süd</strong><br>ID: DE-NW-000156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.161654,
+          50.101734
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Maibacher Höhe West</strong><br>ID: DE-BY-000283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.177642,
+          53.08876
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Grundbergsee Süd</strong><br>ID: DE-NI-292101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176666,
+          53.09023
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2158e0",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Grundbergsee Nord</strong><br>ID: DE-NI-292104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.334251,
+          53.85639
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Demminer Land</strong><br>ID: DE-MV-200025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.507364,
+          49.069153
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kreuzlach</strong><br>ID: DE-BW-005050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.886645,
+          50.821648
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#d9805a",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Am Heidenholz West</strong><br>ID: DE-SN-000012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.531267,
+          50.3885
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#e56657",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Distelrasen</strong><br>ID: DE-HE-660011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.031983,
+          50.251686
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#274788",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Coburger Forst Ost</strong><br>ID: DE-BY-000286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.030946,
+          50.2502
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#274788",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Coburger Forst West</strong><br>ID: DE-BY-000285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773517,
+          48.907948
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Enztal Nord</strong><br>ID: DE-BW-008055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60754,
+          52.20826
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a25900",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Am Kahlberg West</strong><br>ID: DE-BB-374702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123947,
+          51.856277
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5ad654",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Schwalenberg West</strong><br>ID: DE-NI-412603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.126013,
+          51.85606
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#5ad654",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Schwalenberg Ost</strong><br>ID: DE-NI-412601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60912,
+          53.79046
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Pröbbower See Ost</strong><br>ID: DE-MV-140010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.729804,
+          53.36817
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Stolpe Nord</strong><br>ID: DE-MV-240015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.729118,
+          53.366722
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Stolpe Süd</strong><br>ID: DE-MV-240016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.986956,
+          48.40075
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#cfaea1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kirchholz Süd</strong><br>ID: DE-BY-000329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.386806,
+          53.919
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Kronberg Nord</strong><br>ID: DE-SH-020203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.631765,
+          48.606518
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fdff08",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Gruibingen</strong><br>ID: DE-BW-008545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.659553,
+          51.919666
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>BAB 36 PWC Brockenblick (West) RFB Halle (BAB14)</strong><br>ID: DE-ST-001251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662261,
+          51.918797
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Brockenblick Ost</strong><br>ID: DE-ST-001249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.600201,
+          49.271687
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Jura West</strong><br>ID: DE-BY-000086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.602177,
+          49.27139
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Jura Ost</strong><br>ID: DE-BY-000085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.182029,
+          48.80979
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#78cb1e",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Baden-Baden West</strong><br>ID: DE-BW-005060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.806307,
+          53.520115
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Gudow Süd</strong><br>ID: DE-SH-024103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.808131,
+          53.520374
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#451eb4",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Gudow Nord</strong><br>ID: DE-SH-024203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453391,
+          48.650986
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#658103",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Teisbacher Moos-Ost</strong><br>ID: DE-BY-000402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.452399,
+          48.651768
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#658103",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Teisbacher Moos-West</strong><br>ID: DE-BY-000401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.164331,
+          51.18938
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#7bb0e1",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>TRA Leubinger Fürstenhügel</strong><br>ID: DE-TH-001147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621874,
+          48.205963
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f2c3bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Neckarburg West</strong><br>ID: DE-BW-081140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.216686,
+          51.724632
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#559de9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Mosigkauer Heide Ost</strong><br>ID: DE-ST-009030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588572,
+          53.22651
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Meynbach West</strong><br>ID: DE-MV-001350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.590338,
+          53.227684
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#fe6d61",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Meynbach Ost</strong><br>ID: DE-MV-001348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.394278,
+          49.895927
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Spessart Süd</strong><br>ID: DE-BY-000014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.394361,
+          49.897583
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#45d207",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Spessart Nord</strong><br>ID: DE-BY-000013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.405983,
+          51.371243
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Alfert</strong><br>ID: DE-NW-007399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.401825,
+          51.37036
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Sengenberg</strong><br>ID: DE-NW-007398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.187411,
+          48.25802
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a60df6",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Fürthholz-Süd</strong><br>ID: DE-BY-008680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693187,
+          50.356556
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#71e209",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Wetterau West</strong><br>ID: DE-HE-500018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.499418,
+          51.41158
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#ba4e97",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Lennhof West</strong><br>ID: DE-NW-000037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51226,
+          51.237602
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#c4135e",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Cloerbruch Nord</strong><br>ID: DE-NW-000298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23209,
+          52.2265
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#2845f9",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Auetal Süd</strong><br>ID: DE-NI-372102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.070841,
+          49.527317
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#f8a5a7",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Pfalz</strong><br>ID: DE-RP-000058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.717632,
+          47.905792
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#cc538c",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Holzkirchen-Süd</strong><br>ID: DE-BY-000318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.473596,
+          50.79298
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#961875",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Rimberg West</strong><br>ID: DE-HE-500002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8638,
+          52.337734
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#3cb3bd",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>H-Wülferode West</strong><br>ID: DE-NI-362502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.963576,
+          50.640564
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#71e209",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Finkenwald</strong><br>ID: DE-HE-500012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08023,
+          52.21557
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a0e884",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Marienborn</strong><br>ID: DE-ST-002050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.414438,
+          49.323383
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Jagsttal Ost</strong><br>ID: DE-BW-081560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.176735,
+          47.801666
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#089ace",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Samerberg-Süd</strong><br>ID: DE-BY-000309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.381738,
+          51.82734
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#b09fbf",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Millingen</strong><br>ID: DE-NW-000096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.413232,
+          49.32585
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 6,
+        "popup": "<strong>Jagsttal West</strong><br>ID: DE-BW-081065"
+      }
+    }
+  ]
+}

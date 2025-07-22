@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Overview Panel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+        }
+
+        .panel {
+            max-width: 800px;
+            margin: 2rem auto;
+            background: #fff;
+            padding: 2rem;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .panel header {
+            border-bottom: 2px solid #ddd;
+            margin-bottom: 1.5rem;
+        }
+
+        .panel h1 {
+            margin: 0;
+            font-size: 2rem;
+            color: #333;
+        }
+
+        .panel section {
+            margin-bottom: 1.5rem;
+        }
+
+        .panel ul,
+        .panel ol {
+            margin: 0 0 1.5rem 1.5rem;
+        }
+
+        .panel img {
+            max-width: 100%;
+            margin: 1rem 0;
+            display: block;
+        }
+
+        .panel footer {
+            border-top: 2px solid #ddd;
+            padding-top: 1rem;
+            font-size: 0.9rem;
+            color: #666;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="panel">
+        <header>
+            <h1>Project Overview</h1>
+            <p><em>Last updated: May 14, 2025</em></p>
+        </header>
+
+        <section>
+            <h2>Introduction</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tincidunt, purus at ullamcorper
+                facilisis, erat sapien tempor justo, sit amet dapibus dui risus at tellus. Vestibulum ante ipsum
+                primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed ac finibus risus. Suspendisse
+                potenti. Morbi luctus convallis sem, sit amet aliquet nisl pulvinar nec.
+            </p>
+            <p>
+                Donec a ligula nec arcu pulvinar tincidunt. Aenean sed orci vitae sapien gravida ultrices. Cras
+                venenatis eros vitae lectus aliquet, sit amet vestibulum velit malesuada. Nulla facilisi. Ut
+                tristique, nunc id molestie bibendum, arcu nisl cursus nunc, a luctus purus quam quis tortor.
+            </p>
+        </section>
+
+        <section>
+            <h2>Key Objectives</h2>
+            <ol>
+                <li>Analyse spatial distribution of travel times across the city grid.</li>
+                <li>Visualise hotspots and coldspots through interactive hexagon overlays.</li>
+                <li>Enable users to click on each hexagon to get detailed statistics.</li>
+                <li>Provide export functionality for selected regions.</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Methodology</h2>
+            <ul>
+                <li>Data preprocessing and cleaning using Python <code>geopandas</code>.</li>
+                <li>Polygon tessellation into equal-area hex cells.</li>
+                <li>Calculation of mean car travel times per cell.</li>
+                <li>Colour-mapping via a perceptually uniform colormap (e.g., <code>viridis</code>).</li>
+                <li>Rendering in MapLibre with click-driven pop-ups.</li>
+            </ul>
+            <blockquote>
+                “Good data visualisation is the doorway to better decision-making, turning complexity into clarity.”
+            </blockquote>
+        </section>
+
+        <section>
+            <h2>Illustration</h2>
+            <img src="https://via.placeholder.com/700x300.png?text=Heatmap+Example" alt="Heatmap Example">
+            <p>
+                Figure 1: Heatmap of mean travel time per hexagonal cell. Darker cells indicate higher average
+                travel times, lighter cells lower times.
+            </p>
+        </section>
+
+        <section>
+            <h2>Detailed Description</h2>
+            <p>
+                Phasellus sit amet sapien ut purus ultricies varius. Aenean ac ex id lacus tristique convallis.
+                Integer eget eros nec justo fermentum hendrerit. Cras sit amet nisl magna. In sit amet arcu quis
+                arcu tempor cursus. Nulla luctus, sapien sit amet efficitur finibus, dui orci posuere risus, sed
+                vehicula lorem lacus vitae elit.
+            </p>
+            <p>
+                Aliquam erat volutpat. Morbi feugiat urna a purus sollicitudin, et fermentum felis porttitor.
+                Sed ac congue nulla. Maecenas non ante ac quam scelerisque vulputate. Phasellus porttitor urna nec
+                tellus luctus ultrices. Integer molestie, risus eu suscipit ultricies, purus nisl blandit quam,
+                vitae bibendum dolor nibh vitae urna.
+            </p>
+        </section>
+
+        <footer>
+            &copy; 2025 Research Group — All Rights Reserved
+        </footer>
+    </div>
+</body>
+
+</html>

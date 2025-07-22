@@ -1,0 +1,25 @@
+{
+    "title": "Infrastructure",
+    "center": [
+        11.576124,
+        48.137154
+    ],
+    "zoom": 11,
+    "layers": [
+        {
+            "name": "Bus StopsDN",
+            "path": "layers/busstops.geojson",
+            "visible": false
+        },
+        {
+            "name": "Subway RoutesDN",
+            "path": "layers/subways.geojson",
+            "visible": false
+        },
+        {
+            "name": "Subway Stations DIsplay name",
+            "path": "layers/subwaystations.geojson",
+            "visible": true
+        }
+    ]
+}

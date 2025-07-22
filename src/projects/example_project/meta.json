@@ -1,0 +1,31 @@
+{
+  "title": "Demo Projekt",
+  "center": [
+    11.576124,
+    48.137154
+  ],
+  "zoom": 12,
+  "minZoom": 10,
+  "layers": [
+    {
+      "name": "Punkte-Beispiele",
+      "path": "layers/points.geojson",
+      "visible": true
+    },
+    {
+      "name": "Linien-Beispiele",
+      "path": "layers/lines.geojson",
+      "visible": false
+    },
+    {
+      "name": "Polygone-Beispiele",
+      "path": "layers/polygons.geojson",
+      "visible": false
+    },
+    {
+      "name": "Gemischte-Beispiele",
+      "path": "layers/mixed.geojson",
+      "visible": false
+    }
+  ]
+}

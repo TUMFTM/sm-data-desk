@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5645,
+            48.1371
+          ],
+          [
+            11.5755,
+            48.1374
+          ],
+          [
+            11.582,
+            48.1351
+          ]
+        ]
+      },
+      "properties": {
+        "ftype": "line",
+        "design_key": "line_mcube_blue",
+        "popup": "<strong>Default Style</strong>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5569,
+            48.1656
+          ],
+          [
+            11.5659,
+            48.1516
+          ],
+          [
+            11.5755,
+            48.1374
+          ]
+        ]
+      },
+      "properties": {
+        "ftype": "line",
+        "design_key": "line_mcube_red",
+        "popup": "<strong>Highlight Style</strong>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6,
+            48.135
+          ],
+          [
+            11.61,
+            48.13
+          ],
+          [
+            11.62,
+            48.125
+          ]
+        ]
+      },
+      "properties": {
+        "ftype": "line",
+        "design_key": "line_mcube_grey",
+        "popup": "<strong>Dashed Style</strong>"
+      }
+    }
+  ]
+}

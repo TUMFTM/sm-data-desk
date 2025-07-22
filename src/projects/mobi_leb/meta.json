@@ -1,0 +1,30 @@
+{
+    "title": "Mobilität.Leben",
+    "center": [
+        11.576124,
+        48.137154
+    ],
+    "zoom": 12,
+    "layers": [
+        {
+            "name": "Bushaltestellen",
+            "path": "layers/busstops.geojson",
+            "visible": true
+        },
+        {
+            "name": "U-Bahn-Linien",
+            "path": "layers/subways.geojson",
+            "visible": true
+        },
+        {
+            "name": "ÖPNV↔Rad",
+            "path": "layers/mode_switches_pt_bike.geojson",
+            "visible": true
+        },
+        {
+            "name": "ÖPNV↔Auto",
+            "path": "layers/mode_switches_pt_car.geojson",
+            "visible": true
+        }
+    ]
+}

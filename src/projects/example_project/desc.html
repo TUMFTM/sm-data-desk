@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Demo Projekt Dokumentation</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 2em;
+      color: #000;
+      background-color: #fff;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+      margin-top: 1.2em;
+    }
+    pre {
+      background: #fff;
+      padding: 1em;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      overflow-x: auto;
+      color: #000;
+    }
+    code {
+      background: #fff;
+      color: #000;
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+    }
+    ul {
+      margin: 0.5em 0 1em 1.5em;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1em 0;
+    }
+    table th, table td {
+      border: 1px solid #ccc;
+      padding: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>München Demo Projekt</h1>
+  <p>Hier findest du eine umfassende Dokumentation für das Projekt-Setup und alle verfügbaren Optionen von Datentisch-Lean.</p>
+
+  <h2>Projektordnerstruktur</h2>
+  <p>Jedes Projekt enthält:</p>
+  <ul>
+    <li><code>meta.json</code> - zentrale Konfiguration</li>
+    <li>Beliebige <code>.html</code>-Dateien im Projekt-Root (z.B. <code>desc.html</code>) werden automatisch als Panels eingebunden.</li>
+    <li><code>layers/</code>-Unterordner mit GeoJSON-Dateien (<code>.geojson</code>).</li>
+  </ul>
+  <pre><code>{
+  "title": "München Demo Projekt",
+  "center": [11.576124, 48.137154],
+  "zoom": 12,
+  "minZoom": 10,
+  "layers": [
+    { "name": "Punkte-Beispiele",    "path": "layers/points.geojson",   "visible": true  },
+    { "name": "Linien-Beispiele",    "path": "layers/lines.geojson",    "visible": false },
+    { "name": "Polygone-Beispiele",  "path": "layers/polygons.geojson", "visible": false },
+    { "name": "Gemischte-Beispiele", "path": "layers/mixed.geojson",    "visible": false }
+  ]
+}</code></pre>
+
+  <h2>GeoJSON-Aufbau</h2>
+  <p>Jede Datei muss ein <code>FeatureCollection</code> sein:</p>
+  <pre><code>{
+  "type": "FeatureCollection",
+  "features": [ … ]
+}</code></pre>
+
+  <h3>Punkt-Features</h3>
+  <pre><code>{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [lng, lat] },
+  "properties": {
+    "ftype": "point",
+    "design_key": "point_mcube_red",
+    "popup": "<strong>Title</strong><br>Description"
+  }
+}</code></pre>
+
+  <h3>Linien-Features</h3>
+  <pre><code>{
+  "type": "Feature",
+  "geometry": { "type": "LineString", "coordinates": [ … ] },
+  "properties": {
+    "ftype": "line",
+    "design_key": "line_mcube_red",
+    "popup": "<strong>Line Name</strong>"
+  }
+}</code></pre>
+
+  <h3>Polygon-Features</h3>
+  <pre><code>{
+  "type": "Feature",
+  "geometry": { "type": "Polygon", "coordinates": [ … ] },
+  "properties": {
+    "ftype": "polygon",
+    "design_key": "polygon_mcube_red",
+    "popup": "<strong>Area Name</strong>"
+  }
+}</code></pre>
+
+  <h2>Gemischte Geometrien</h2>
+  <p>Ein einzelnes GeoJSON-File kann Punkte, Linien und Polygone enthalten und rendert alle Objekte gemeinsam.</p>
+
+  <h2>Styling options</h2>
+  <p>Each feature has three following properties: "ftype", "design_key" and "popup". Within the first one is is necessary to define what kind of feature type is supposed to be displayed (point, line or polygon).
+    Second one, "design_key" can be used to set one of the predefined style settings. The following table shows awailable designs with suggested use cases:</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Style Name</th>
+        <th>Preview</th>
+        <th>Recommended Use</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Points -->
+      <tr>
+        <td><code>point_mcube_blue</code></td>
+        <td><div style="width:20px;height:20px;background:#0047aa;border:1px solid #0047aa;border-radius:50%;margin:auto;"></div></td>
+        <td>Default primary point marker (e.g. main locations)</td>
+      </tr>
+      <tr>
+        <td><code>point_mcube_red</code></td>
+        <td><div style="width:20px;height:20px;background:#ff5a5a;border:1px solid #ff5a5a;border-radius:50%;margin:auto;"></div></td>
+        <td>Use to highlight alerts or critical points</td>
+      </tr>
+      <tr>
+        <td><code>point_mcube_grey</code></td>
+        <td><div style="width:20px;height:20px;background:#f6f6f6;border:1px solid #ccc;border-radius:50%;margin:auto;"></div></td>
+        <td>Use for inactive or background markers</td>
+      </tr>
+
+      <!-- Lines -->
+      <tr>
+        <td><code>line_mcube_blue</code></td>
+        <td><div style="height:5px;background:#0047aa;margin:auto;width:80%;"></div></td>
+        <td>Primary route or boundary lines</td>
+      </tr>
+      <tr>
+        <td><code>line_mcube_red</code></td>
+        <td><div style="height:5px;background:#ff5a5a;margin:auto;width:80%;"></div></td>
+        <td>Use for high-priority or alert paths</td>
+      </tr>
+      <tr>
+        <td><code>line_mcube_grey</code></td>
+        <td><div style="height:5px;background:#f6f6f6;border:1px solid #ccc;margin:auto;width:80%;"></div></td>
+        <td>Use for inactive or optional lines</td>
+      </tr>
+
+      <!-- Polygons -->
+      <tr>
+        <td><code>polygon_mcube_blue</code></td>
+        <td><div style="width:40px;height:20px;background:#0047aa;opacity:0.5;border:2px solid #0047aa;margin:auto;"></div></td>
+        <td>Main area highlight, e.g. core zones</td>
+      </tr>
+      <tr>
+        <td><code>polygon_mcube_red</code></td>
+        <td><div style="width:40px;height:20px;background:#ff5a5a;opacity:0.5;border:2px solid #ff5a5a;margin:auto;"></div></td>
+        <td>Highlight restricted or risk areas</td>
+      </tr>
+      <tr>
+        <td><code>polygon_mcube_grey</code></td>
+        <td><div style="width:40px;height:20px;background:#f6f6f6;opacity:0.5;border:2px solid #ccc;margin:auto;"></div></td>
+        <td>Neutral areas, optional overlays</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>"Popup" property can be used to add information that will be shown when clicking on certain geeometry.</p>
+  
+  <h2>Beispielprojekt-Demo</h2>
+  <ul>
+    <li><strong>Punkte-Beispiele:</strong> 4 Marker mit unterschiedlichen Füllfarben, Opacities, Stroke-Breiten und Radien + HTML-Popups.</li>
+    <li><strong>Linien-Beispiele:</strong> 3 Routen mit variierenden Stroke-Farben und -Breiten.</li>
+    <li><strong>Polygone-Beispiele:</strong> 3 Flächen mit verschiedenen Fill- & Stroke-Einstellungen.</li>
+    <li><strong>Gemischte-Beispiele:</strong> Ein Marker, eine Linie und ein Polygon in einer Datei, um alle Feature-Typen zu demonstrieren.</li>
+  </ul>
+
+</body>
+</html>

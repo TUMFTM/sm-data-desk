@@ -1,0 +1,295 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+main {
+  height: 100%;
+}
+
+html {
+  touch-action: none;
+}
+
+body {
+  width: 100%;
+  background-color: aliceblue;
+  font: 1.6rem/1.25 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+  margin: 0px !important;
+  touch-action: none;
+}
+
+@media screen and (min-width: 620px) {
+  body {
+    font-size: 1.9rem;
+    line-height: 1.31579;
+  }
+}
+
+/* Styles for components that are used throughout the entire application */
+
+
+
+.panel-button {
+  background-color: rgb(0, 101, 189);
+  color: aliceblue;
+  border-radius: 4px;
+  font-size: 22px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 13vw;
+  transition: filter 0.3s ease;
+}
+
+.panel-button.active-toggle {
+    background-color: #a2ad00;
+    color: #fff;
+    border: 3px solid black;
+    font-weight: bold;
+}
+
+.panel-button:hover {
+  filter: brightness(120%);
+  color: #fff;
+}
+
+.panel-container {
+  background-color: rgb(206, 215, 224);
+  height: 78.6vh;
+  width: 100%;
+  position: relative;
+  display: inline-block;
+}
+
+.container-side {
+  background-color: aliceblue;
+  height: 15vw;
+  width: 60vh;
+  box-shadow: 0 -10px 15px 0 rgba(0, 0, 0, 0.6);
+}
+
+.container-top {
+  background-color: aliceblue;
+  height: 20vh;
+  width: 36vw;
+  box-shadow: 0 -10px 15px 0 rgba(0, 0, 0, 0.6);
+}
+
+.rotate-top {
+  transform: translateX(-50%) rotate(180deg);
+  z-index: 5;
+  position: fixed;
+  top: 0;
+  left: 50%;
+}
+
+.rotate-left {
+  position: absolute;
+  top: 50%;
+  z-index: 5;
+  left: calc((15vw - 60vh)/2);
+  -moz-transform: translateY(-50%) rotate(90deg);
+  -webkit-transform: translateY(-50%) rotate(90deg);
+  transform: translateY(-50%) rotate(90deg);
+}
+
+.rotate-right {
+  position: absolute;
+  right: calc((15vw - 60vh)/2);
+  top: 50%;
+  z-index: 5;
+  -moz-transform: translateY(-50%) rotate(-90deg);
+  -webkit-transform: translateY(-50%) rotate(-90deg);
+  transform: translateY(-50%) rotate(-90deg);
+}
+
+/* width */
+.custom-slider> ::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.custom-slider> ::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 5px;
+}
+
+/* Handle */
+.custom-slider> ::-webkit-scrollbar-thumb {
+  background: #0061C3;
+  border-radius: 5px;
+}
+
+/* Map Popup Styles */
+.maplibregl-popup-content {
+  width: 10vw;
+  max-height: 20vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border-radius: 15px;
+  justify-content: center;
+}
+
+/* width */
+.maplibregl-popup-content::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.maplibregl-popup-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 15px;
+}
+
+/* Handle */
+.maplibregl-popup-content::-webkit-scrollbar-thumb {
+  background: #0061C3;
+  border-radius: 15px;
+}
+
+.maplibregl-popup {
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.2));
+}
+
+div.map-popup-outer {
+  max-width: 10vw;
+  height: 100%;
+  display: grid;
+  margin: auto;
+}
+
+div.map-popup-outer h1 {
+  font-size: 1.6rem;
+}
+
+div.map-popup-outer h2 {
+  font-size: 1.3rem;
+}
+
+div.map-popup-outer span,
+div.map-popup-outer p,
+div.map-popup-outer a,
+div.map-popup-outer div {
+  font-size: 1.2rem;
+  vertical-align: baseline;
+  display: inline-block;
+  float: left;
+}
+
+div.map-popup-outer div>h1,
+div.map-popup-outer div>h2,
+div.map-popup-outer div>a,
+div.map-popup-outer div>p,
+div.map-popup-outer div>text {
+  vertical-align: baseline;
+  line-height: normal;
+  float: left;
+}
+
+/* NPM css-ripple-effect */
+.ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #000 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform .5s, opacity 1s;
+}
+
+.ripple:active:after {
+  transform: scale(0, 0);
+  opacity: .2;
+  transition: 0s;
+}
+
+.ripple.active:after {
+  transform: scale(0, 0);
+  opacity: .2;
+  transition: 0s;
+}
+
+.side_panel h1 {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.side_panel p {
+  font-size: 15px;
+}
+
+.side_panel .images {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  object-fit: scale-down;
+}
+
+.side_panel summary {
+  display: flex;
+  align-items: center;
+  /* keeps arrow vertically centered */
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 97, 195);
+  font-size: 20px;
+  list-style: none;
+  touch-action: none;
+}
+
+.side_panel summary::-webkit-details-marker {
+  display: none;
+}
+
+.side_panel details summary::before {
+  content: "▼";
+  color: rgb(0, 97, 195);
+  /* you can style it however you want, use background-image for example */
+}
+
+/* By using [open] we can define different styles when the disclosure widget is open */
+details[open] summary::before {
+  content: "▲";
+  color: rgb(0, 97, 195)
+}
+
+.side_panel div {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.side_panel button {
+  width: 100%;
+  font-size: 15px;
+  background: rgb(0, 97, 195);
+  cursor: pointer;
+  color: #fff;
+  outline: 0;
+  border: 0;
+  border-radius: 0.35rem;
+  box-shadow: 0 0 0.6rem rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+  word-break: normal;
+}
+
+.alicebackground {
+  background-color: aliceblue;
+  border: solid 5px white;
+}

@@ -1,0 +1,97 @@
+{
+  "point": {
+    "point_mcube_blue": {
+      "fill": "#0047aa",
+      "fill_opacity": 1,
+      "stroke": "#0047aa",
+      "stroke_width": 1,
+      "radius": 5
+    },
+    "point_mcube_red": {
+      "fill": "#ff5a5a",
+      "fill_opacity": 1,
+      "stroke": "#ff5a5a",
+      "stroke_width": 1,
+      "radius": 5
+    },
+    "point_mcube_grey": {
+      "fill": "#f6f6f6",
+      "fill_opacity": 1,
+      "stroke": "#f6f6f6",
+      "stroke_width": 1,
+      "radius": 5
+    }
+  },
+  "line": {
+    "line_mcube_blue": {
+      "stroke": "#0047aa",
+      "stroke_width": 3
+    },
+    "line_mcube_red": {
+      "stroke": "#ff5a5a",
+      "stroke_width": 3
+    },
+    "line_mcube_grey": {
+      "stroke": "#f6f6f6",
+      "stroke_width": 3
+    }
+  },
+  "polygon": {
+    "polygon_mcube_blue": {
+      "fill": "#0047aa",
+      "fill_opacity": 0.5,
+      "stroke": "#0047aa",
+      "stroke_width": 3, 
+      "stroke_opacity": 1
+    },
+    "polygon_mcube_red": {
+      "fill": "#ff5a5a",
+      "fill_opacity": 0.5,
+      "stroke": "#ff5a5a",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    },
+    "polygon_mcube_grey": {
+      "fill": "#f6f6f6",
+      "fill_opacity": 0.5,
+      "stroke": "#d4d4d4",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    },
+     "polygon_mcube_cs1": {
+      "fill": "#eef7b4",
+      "fill_opacity": 0.5,
+      "stroke": "#eef7b4",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    },
+     "polygon_mcube_ws": {
+      "fill": "#aef1f3",
+      "fill_opacity": 0.5,
+      "stroke": "#aef1f3",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    },
+     "polygon_mcube_aqt": {
+      "fill": "#e49089",
+      "fill_opacity": 0.5,
+      "stroke": "#e49089",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    },
+     "polygon_mcube_mp": {
+      "fill": "#f79f43",
+      "fill_opacity": 0.5,
+      "stroke": "#f79f43",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    },
+     "polygon_mcube_refumo": {
+      "fill": "#00DA9E",
+      "fill_opacity": 0.5,
+      "stroke": "#00DA9E",
+      "stroke_width": 3,
+      "stroke_opacity": 1
+    }
+  }
+}

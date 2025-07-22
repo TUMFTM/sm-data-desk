@@ -1,0 +1,18 @@
+{
+  "title": "NEFTON - Depot",
+  "center": [10.451526, 51.165691],
+  "zoom": 6,
+  "minZoom":4,
+  "layers": [
+    {
+      "name": "Charging Netzwerk",
+      "path": "layers/charging_network.geojson",
+      "visible": true
+    },
+    {
+      "name": "Metzger Bewegungsdaten",
+      "path": "layers/metzger.geojson",
+      "visible": true
+    }
+  ]
+}

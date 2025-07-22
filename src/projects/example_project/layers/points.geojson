@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5755,
+          48.1374
+        ]
+      },
+      "properties": {
+        "ftype": "point",
+        "design_key": "point_mcube_blue",
+        "popup": "<strong>Marienplatz</strong><br><em>Historic center</em>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "ftype": "point",
+        "design_key": "point_mcube_red",
+        "popup": "<h3>Viktualienmarkt</h3><p>Food market</p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5569,
+          48.1656
+        ]
+      },
+      "properties": {
+        "ftype": "point",
+        "design_key": "point_mcube_grey",
+        "popup": "<strong style='color:#0000ff'>English Garden</strong>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5965,
+          48.14
+        ]
+      },
+      "properties": {
+        "ftype": "point",
+        "design_key": "point_mcube_red",
+        "popup": "<em>Olympiapark</em><br>Sports complex"
+      }
+    }
+  ]
+}

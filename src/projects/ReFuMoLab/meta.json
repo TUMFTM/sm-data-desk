@@ -1,0 +1,29 @@
+{
+  "title": "ReFuMoLab Garching",
+  "center": [
+    11.55,
+    48.17
+  ],
+  "zoom": 10.5,
+  "minZoom": 8,
+  "layers": [
+    {
+      "id": "garching",
+      "name": "Project area",
+      "path": "layers/02_garching.geojson",
+      "visible": true
+    },
+    {
+      "id": "munich_districts",
+      "name": "Munich districts",
+      "path": "layers/01_munich_districts.geojson",
+      "visible": true
+    },
+    {
+      "id": "outgoing_trips",
+      "name": "Total Flow to Graching",
+      "path": "layers/outgoing_trips.geojson",
+      "visible": false
+    }
+  ]
+}

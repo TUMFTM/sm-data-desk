@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.538167,
+          49.305894
+        ]
+      },
+      "properties": {
+        "ftype": "marker",
+        "fill": "#a76767",
+        "fill_opacity": 0.9,
+        "stroke": "#000000",
+        "stroke_width": 1,
+        "radius": 20,
+        "popup": "<strong>Metzger Spedition Neu-Kupfer</strong><br>ID: DE-BW-006080<br><iframe src='https://metzger-spedition.de/ueber-uns-sustainability/' style='border:none;'></iframe>"
+      }
+    }
+  ]
+}

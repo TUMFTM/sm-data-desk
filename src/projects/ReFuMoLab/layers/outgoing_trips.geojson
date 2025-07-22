@@ -1,0 +1,1676 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.44195113130662,
+            48.16068317723724
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81245",
+        "total_count": 67,
+        "stroke": "#ff6600",
+        "stroke_width": 6.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.575026898999512,
+            48.15234138931578
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80799",
+        "total_count": 85,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.618261816785527,
+            48.121861698072884
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81671",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.688350539472433,
+            48.13374384449319
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81829",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.467783963568133,
+            48.16684235257089
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81247",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.579082448513976,
+            48.15868128080849
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80801",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.464070628182602,
+            48.14100272783971
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81241",
+        "total_count": 45,
+        "stroke": "#ff6600",
+        "stroke_width": 4.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.640619763009795,
+            48.10991373296808
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81735",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.587405274305928,
+            48.12043924866584
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81541",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.589109939136051,
+            48.11071522743492
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81539",
+        "total_count": 52,
+        "stroke": "#ff6600",
+        "stroke_width": 5.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.580248048935257,
+            48.16446841858064
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80803",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.591131592758675,
+            48.15925693133769
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80802",
+        "total_count": 22,
+        "stroke": "#ff6600",
+        "stroke_width": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.599341580978374,
+            48.13063808333714
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81667",
+        "total_count": 9,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.485326696557612,
+            48.13084143398653
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80689",
+        "total_count": 30,
+        "stroke": "#ff6600",
+        "stroke_width": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.485248819671469,
+            48.11892949854173
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81375",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.51808460349511,
+            48.17477854285473
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80992",
+        "total_count": 59,
+        "stroke": "#ff6600",
+        "stroke_width": 5.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.52340787591688,
+            48.07751146941712
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81479",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.554196719065256,
+            48.13262753479206
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80336",
+        "total_count": 34,
+        "stroke": "#ff6600",
+        "stroke_width": 3.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.557616592661612,
+            48.16272291065966
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80797",
+        "total_count": 110,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.556293331933462,
+            48.216109111282144
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80933",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.512202925414186,
+            48.13206295278073
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80686",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.507672976202077,
+            48.08306159410842
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81477",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.51923020143299,
+            48.18649970662776
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80993",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.531055068768044,
+            48.11073501189894
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81369",
+        "total_count": 68,
+        "stroke": "#ff6600",
+        "stroke_width": 6.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.538140049655185,
+            48.13608122313133
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80339",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.543610920629984,
+            48.15100455150749
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80636",
+        "total_count": 69,
+        "stroke": "#ff6600",
+        "stroke_width": 6.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.403888796645766,
+            48.167233816039534
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81249",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.436817718720198,
+            48.14530963593927
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81243",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.56409390231718,
+            48.109877036323674
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81543",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.556814124184957,
+            48.079845029513855
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81545",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.45187661166319,
+            48.19092455181443
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80999",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.48245842396499,
+            48.19188639209151
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80997",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.50600590734432,
+            48.16169734930774
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80638",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.493273724702536,
+            48.11019095086333
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81377",
+        "total_count": 77,
+        "stroke": "#ff6600",
+        "stroke_width": 7.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.506022284233088,
+            48.14131568990164
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80687",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.480941940715885,
+            48.08953940844752
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81475",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.515210629236298,
+            48.21716960862717
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80995",
+        "total_count": 106,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.509221587580305,
+            48.150899676374785
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80639",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.571352214827611,
+            48.12788649812037
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80469",
+        "total_count": 41,
+        "stroke": "#ff6600",
+        "stroke_width": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.495693590545226,
+            48.08852889330688
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81476",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.565982987799671,
+            48.15530620005382
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80798",
+        "total_count": 49,
+        "stroke": "#ff6600",
+        "stroke_width": 4.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.531843228221797,
+            48.099385573739866
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81379",
+        "total_count": 140,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.530561252774412,
+            48.122889943807884
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81373",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.529611460239927,
+            48.14929266726014
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80634",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.55396160610354,
+            48.145555399467476
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80335",
+        "total_count": 28,
+        "stroke": "#ff6600",
+        "stroke_width": 2.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.537179413937016,
+            48.163190157521576
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80637",
+        "total_count": 69,
+        "stroke": "#ff6600",
+        "stroke_width": 6.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.553142276403538,
+            48.17929420621821
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80809",
+        "total_count": 38,
+        "stroke": "#ff6600",
+        "stroke_width": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.553615847590786,
+            48.19865395406788
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80935",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.557252368733883,
+            48.087200641278564
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81545",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.558331744246898,
+            48.12635271156122
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80337",
+        "total_count": 43,
+        "stroke": "#ff6600",
+        "stroke_width": 4.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.547762251244237,
+            48.11423388380577
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81371",
+        "total_count": 59,
+        "stroke": "#ff6600",
+        "stroke_width": 5.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.568769452561726,
+            48.14518284301087
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80333",
+        "total_count": 17,
+        "stroke": "#ff6600",
+        "stroke_width": 1.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.57005256593382,
+            48.16291635289008
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80796",
+        "total_count": 160,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.57564175337536,
+            48.100526829254335
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81547",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.575083899502708,
+            48.21050320304435
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80937",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.57293739800652,
+            48.13595560636569
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80331",
+        "total_count": 29,
+        "stroke": "#ff6600",
+        "stroke_width": 2.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.577153558412355,
+            48.172393850785504
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80804",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.585489978705219,
+            48.1843854187344
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80807",
+        "total_count": 219,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.61643693156907,
+            48.20608563307782
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80939",
+        "total_count": 367,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.58214943664424,
+            48.14517183494054
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80539",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.59091770099991,
+            48.14449971368599
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80538",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.60123126710257,
+            48.097837892550906
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81549",
+        "total_count": 52,
+        "stroke": "#ff6600",
+        "stroke_width": 5.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.601095370762565,
+            48.12016322603874
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81669",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.602543424807498,
+            48.13931357218137
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81675",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.606808789857254,
+            48.17401580331868
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "80805",
+        "total_count": 213,
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.608486809583548,
+            48.14815417456444
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81679",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.622308604954494,
+            48.162198933896484
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81925",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.631391312261352,
+            48.13855162719376
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81677",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.631473019114036,
+            48.12818029470392
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81673",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.63288558324396,
+            48.09874757156939
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81737",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.664144397225705,
+            48.160626344010275
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81929",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.661056367653895,
+            48.08877073392603
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81739",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.63738548475147,
+            48.159047918207165
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81927",
+        "total_count": 73,
+        "stroke": "#ff6600",
+        "stroke_width": 7.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.660908822539803,
+            48.11867108703454
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81825",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.690390598624742,
+            48.107561974698406
+          ],
+          [
+            11.639542959419765,
+            48.2480946757159
+          ]
+        ]
+      },
+      "properties": {
+        "postcode": "81827",
+        "total_count": 0,
+        "stroke": "#ff6600",
+        "stroke_width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.639542959419765,
+            48.2480946757159
+          ],
+          [
+            11.626037735635418,
+            48.24809388499444
+          ]
+        ]
+      },
+      "properties": {
+        "type": "arrowhead",
+        "stroke": "#ff6600",
+        "stroke_width": 8
+      }
+    }
+  ]
+}

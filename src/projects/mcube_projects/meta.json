@@ -1,0 +1,23 @@
+{
+  "title": "MCube Projects",
+  "center": [
+    11.576124,
+    48.137154
+  ],
+  "zoom": 11,
+  "minZoom": 8,
+  "layers": [
+    {
+      "id": "polygons-1",
+      "name": "Phase I",
+      "path": "layers/polygons-1.geojson",
+      "visible": true
+    },
+    {
+      "id": "polygons-2",
+      "name": "Phase II",
+      "path": "layers/polygons-2.geojson",
+      "visible": false
+    }
+  ]
+}

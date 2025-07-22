@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8">
+  <title>München Demo Projekt Dokumentation</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 2em;
+      color: #000;
+      background-color: #fff;
+    }
+
+    h1,
+    h2,
+    h3 {
+      color: #2c3e50;
+      margin-top: 1.2em;
+    }
+
+    p,
+    ul,
+    details p {
+      margin: 0.8em 0;
+    }
+
+    ul,
+    .legend {
+      margin: 0.5em 0 1em 1.5em;
+    }
+
+    .legend {
+      border: 1px solid #ccc;
+      padding: 1em;
+      border-radius: 5px;
+      background: #f9f9f9;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 0.5em;
+    }
+
+    .color-box {
+      width: 20px;
+      height: 20px;
+      margin-right: 0.5em;
+      border: 1px solid #000;
+    }
+
+    details summary {
+      font-weight: 600;
+      cursor: pointer;
+      margin-top: 1em;
+    }
+
+    hr {
+      margin: 1.5em 0;
+      border: 0;
+      border-top: 1px solid #ccc;
+    }
+
+    .images img {
+      margin-right: 1em;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Mobilität.Leben</h1>
+
+  <p>Diese Karte zeigt Umstiegspunkte von Personen vom Öffentlichen Verkehr auf das Auto bzw. auf das Fahrrad in beide
+    Richtungen. Die Daten wurden im Rahmen des Projekts Mobilität.Leben erhoben. Mit Hilfe u.a. dieser Daten ist es uns
+    möglich, die Einflüsse von Wetter, Streiks und Ticketangeboten auf das Mobilitätsverhalten unserer Teilnehmenden
+    auszuwerten.</p>
+
+  <details>
+    <summary><b>Ziele des Projekts</b></summary>
+    <p align="justify">
+      Mit der Studie “Mobilität.Leben” untersuchen wir das Mobilitätsverhalten von Menschen in der Münchner
+      Metropolregion und darüber hinaus mit einer hohen räumlichen und zeitlichen Auflösung. Aufbauend auf den
+      gesammelten Daten schreiben wir regelmäßig wissenschaftliche Berichte und veröffentlichen sogenannte “Policy
+      Briefs”, um AkteurInnen aus der Mobilitäts- und Verkehrswelt eine fundierte Entscheidungsbasis an die Hand zu
+      geben. In der Karte auf dem Datentisch sehen Sie eine von vielen Analysen, die wir mit dem Datensatz machen
+      können.
+    </p>
+  </details>
+  <hr>
+  <details>
+    <summary><b>Wer ist Projektpartner?</b></summary>
+    <p align="justify">
+      Das Team setzt sich aus Forscher:innen der TUM und HfP zusammen und ist interdisziplinär aufgestellt:
+    </p>
+    <ul>
+      <li>Fahrzeugtechnik: Prof. Dr. Markus Lienkamp, Lennart Adenaw, David Ziegler</li>
+      <li>Verkehrstechnik: Prof. Dr. Klaus Bogenberger, Dr. Allister Loder, Philipp Blum, Lisa Hamm, Thomas Schönhofer
+      </li>
+      <li>Economics: Prof. Dr. Sebastian Goerg, Fabienne Cantner</li>
+      <li>Data Analytics and Machine Learning Group: Prof. Dr. Stephan Günnemann</li>
+      <li>Erneuerbare und Nachhaltige Energiesysteme: Prof. Dr. Thomas Hamacher, Andrea Cadavid</li>
+      <li>Innovation Research: Prof. Dr. Sebastian Pfotenhauer, Dr. Michael Mögele</li>
+      <li>Umwelt- und Klimapolitik: Prof. Dr. Miranda Schreurs</li>
+      <li>Policy Analysis: Prof. Dr. Stefan Wurster</li>
+    </ul>
+    <p align="justify">
+      Begleitet wird das Projekt durch eine Kommission, für die u.a. Prof. Dr. Wolfgang Wüst (Bay. Staatsministerium für
+      Wohnen, Bau und Verkehr), Georg Dunkel (Mobilitätsreferent der Landeshauptstadt München), Bernd Rosenbusch
+      (Münchener Verkehrsverbund, MVV) und Ingo Wortmann (Münchener Verkehrsgesellschaft, MVG) gewonnen werden konnten.
+      Zudem kooperiert das Projekt eng mit dem Münchner Cluster für die Zukunft der Mobilität in Metropolregionen
+      (MCube).
+    </p>
+  </details>
+  <hr>
+  <div class="images">
+    <img src="mcubelogo.svg" width="45%">
+    <img src="qr.png" width="15%">
+  </div>
+
+  <h2>Geo-Daten Übersicht</h2>
+  <p>Dieses Dashboard zeigt vier Layer im Raum München:</p>
+  <ul>
+    <li><strong>Bushaltestellen</strong></li>
+    <li><strong>U-Bahn-Linien</strong></li>
+    <li><strong>ÖPNV ↔ Fahrrad</strong></li>
+    <li><strong>ÖPNV ↔ Auto</strong></li>
+  </ul>
+
+  <h3>Legende</h3>
+  <div class="legend">
+    <div class="legend-item">
+      <div class="color-box" style="background:#ff9900;"></div>Bushaltestellen
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background:#004d00;"></div>U-Bahn-Linien
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background:#1eff00; border-color:#000;"></div>ÖPNV ↔ Fahrrad
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background:#0099ff; border-color:#000;"></div>ÖPNV ↔ Auto
+    </div>
+  </div>
+
+</body>
+
+</html>
